@@ -97,8 +97,7 @@ html {
     color:darkorange;
     text-align: center;
     margin-top: 15px;
-    padding: 11px 16px;
-    color: royalblue;
+    
 
 }
 #content .content-section {
@@ -210,6 +209,11 @@ html {
 .place-buy-btn:hover{
     color:black;
     background-color: #ccc;
+}
+.demo-gr{
+    margin-top: 15px;
+    color:white;
+    font-size: 15px;
 }
 /* Contact form */
 .map-section{
