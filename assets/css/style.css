@@ -21,7 +21,7 @@ html {
 
 #header {
     height: 46px;
-    background-color: black;
+    background: url(https://genk.mediacdn.vn/2019/12/19/avata-15767666654061073009960.gif) top center/ cover no-repeat;
     position: fixed;
     top: 0;
     left: 0;
