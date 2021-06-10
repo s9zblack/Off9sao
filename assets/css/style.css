@@ -91,7 +91,13 @@ html {
 
 }
 #content {
-   
+  
+}
+#ad6 {
+    margin-top: 40px
+}
+#group{
+    margin-top: 50px;
 }
 #content .warning{
     color:darkorange;
@@ -153,6 +159,19 @@ html {
     font-weight: 900;
     letter-spacing: 2px;
 
+}
+#content .survice-ad li {
+    display: block;
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: 700;
+    color: #f44366; 
+}
+#content .survice-name{
+    font-size: 25px;
+    color: red;
+    font-weight: 800;
+    margin-top: 30px;
 }
 #content .ti-facebook{
    
