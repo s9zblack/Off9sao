@@ -212,11 +212,6 @@ html {
     padding: 64px 16px;
     text-align: center;
 }
-#footer .content-end{
-    margin-bottom: 50px;
-    color: red;
-    font-size: 30px;
-}
 #footer .social{
     font-size: 24px;
 }
