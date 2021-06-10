@@ -93,6 +93,14 @@ html {
 #content {
    
 }
+#content .warning{
+    color:darkorange;
+    text-align: center;
+    margin-top: 15px;
+    padding: 11px 16px;
+    color: royalblue;
+
+}
 #content .content-section {
     width: 800px;
     max-width: 100%;
